@@ -259,7 +259,11 @@ padding-bottom: 25px;}
 
     #abouttitle {font-size: 8vh;}
 
-    #dogpic1, #dogpic2, #mepic {width: 70%}
+    #dogpic1 {width: 70%}
+    
+    #dogpic2 {width: 90%}
+    
+    #mepic {width: 100%}
     
     #careertitle {font-size: 5vh;}
 
